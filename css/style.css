@@ -1,0 +1,30 @@
+.card{
+    border: none;
+}
+#price-color p, li{
+    color: gray;
+}
+footer{
+    padding: 70px;
+}
+#hightlight{
+    background-color: #0f0603;
+    position: relative;
+}
+.hightlight{
+    background-color: #0f0603;
+    color: white;
+}
+.every-monent{
+    flex-direction: column-reverse;
+}
+.hot{
+    position: absolute;
+    top: -34px;
+    right: 9px;
+    border: 1px solid red;
+    border-radius: 10px;
+    background: red;
+    color: white !important;
+    padding: 0 8px 0 8px;
+}
